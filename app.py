@@ -9,7 +9,7 @@ def hello_world():
 
 
 @my_app.route('/secret')
-def hello_world():
+def secret():
     return 'Get outta here. Its my secret'
 
 
